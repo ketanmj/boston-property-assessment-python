@@ -1,9 +1,19 @@
 # Boston Property Assessment - Data Cleaning, Wrangling, Visualization
 
+__________________________________________________________________________________________________________________________________________
 
-Data Source: https://data.boston.gov/dataset/property-assessment
+Data Sources:
 
+https://data.boston.gov/dataset/property-assessment
 
-(Use following link for better viewing)
+https://data.boston.gov/dataset/zip-codes
 
-Jupyter NBviewer Link: https://nbviewer.org/github/ketanmj/boston-property-assessment-python/blob/main/Data_Cleaning_Wrangling_Visualization.ipynb
+__________________________________________________________________________________________________________________________________________
+
+Jupyter NBviewer Link:
+
+(Use following link for dynamic outputs and better viewing)
+
+https://nbviewer.org/github/ketanmj/boston-property-assessment-python/blob/main/Data_Cleaning_Wrangling_Visualization.ipynb
+
+__________________________________________________________________________________________________________________________________________
